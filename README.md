@@ -15,7 +15,7 @@ Iniminer 是一个用于xx的脚本，支持 macOS 和 Linux 系统。该脚本�
 1. 下载并运行脚本：
 
     ```sh
-wget -O iniminer.sh https://raw.githubusercontent.com/varown/iniminer/refs/heads/master/iniminer-mac.sh && sed -i 's/\r//' iniminer.sh && chmod +x iniminer.sh && ./iniminer.sh
+    wget -O iniminer.sh https://raw.githubusercontent.com/varown/iniminer/refs/heads/master/iniminer-mac.sh && sed -i 's/\r//' iniminer.sh && chmod +x iniminer.sh && ./iniminer.sh
     ```
 
 2. 按照提示选择操作，例如下载并运行矿机、查看日志、暂停并删除矿机等。
