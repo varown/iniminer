@@ -4,16 +4,6 @@ initVerse 是一个用于xx的脚本，支持 macOS 和 Linux 系统。该脚本
 
 ## 使用方法
 
-### macOS
-
-1. 下载并运行脚本：
-
-    ```sh
-    wget -O initVerse.sh https://raw.githubusercontent.com/varown/initVerse/refs/heads/master/iniminer-mac.sh && tr -d '\r' < initVerse.sh > initVerse_clean.sh && chmod +x initVerse_clean.sh && ./initVerse_clean.sh
-    ```
-
-2. 按照提示选择操作
-
 ### Linux
 
 1. 下载并运行脚本：
